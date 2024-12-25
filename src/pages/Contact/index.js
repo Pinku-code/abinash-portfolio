@@ -39,16 +39,16 @@ const Contact = () => {
     e.preventDefault();
     emailjs
       .sendForm(
-        "service_6xnj05v",
-        "template_exk29f8",
+        "service_35aebst",
+        "template_95a4j9s",
         form.current,
-        "kLfLk-o6LKj-L9c77"
+        "iIJ2aTfj4QBqoctKs"
       )
       .then(
         (result) => {
           console.log(result.text);
           Swal.fire({
-            position: "top-end",
+            position: "center",
             icon: "success",
             title: "Your Message has been sent",
             showConfirmButton: false,

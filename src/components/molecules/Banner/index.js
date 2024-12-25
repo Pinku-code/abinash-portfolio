@@ -59,7 +59,7 @@ const Banner = () => {
             target="blank"
           >
             <button className="primary-button">
-              <span>My Resume</span>
+              <span>Resume</span>
               <span>
                 <FaDownload />
               </span>
