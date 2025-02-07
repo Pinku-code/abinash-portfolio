@@ -59,7 +59,7 @@ const BlogDetail = () => {
           ))}
         </div>
         <div className="md:col-span-2 lg:col-span-1 px-4 py-6 rounded shadow-lg">
-          <div className="">
+          {/* <div className="">
             <h4 className="text-lg font-medium mb-3">Other :</h4>
             <p className="flex items-center gap-3">
               <span>
@@ -87,7 +87,7 @@ const BlogDetail = () => {
                 <span>LinkedIn</span> <FiExternalLink />
               </a>
             </p>
-          </div>
+          </div> */}
 
           <div className="w-full h-[1px] bg-neutral my-6"></div>
 
