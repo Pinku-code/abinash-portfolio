@@ -26,17 +26,17 @@ const Service = () => {
   const services = [
     {
       id: 1,
-      title: "Front End Development",
+      title: "Front End Dev.",
       icon: <DiAtom />,
       description:
-        "As a Front-end developer, I would love to develope any front-end application using React and its libraries.",
+        "As a Frontend developer, I love building engaging applications using React and its libraries.",
     },
     {
       id: 2,
-      title: "MERN Development",
+      title: "MERN Dev.",
       icon: <FiServer />,
       description:
-        "I am very familiar with NodeJS, Express JS, and MongoDB/Mongoose. So I can build full-stack application with MERN.",
+        "I have strong expertise in Node.js, Express.js, and MongoDB, enabling me to develop full-stack applications with MERN",
     },
     {
       id: 3,

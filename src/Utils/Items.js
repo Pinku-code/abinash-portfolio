@@ -30,12 +30,12 @@ const Items = [
       "Email JS",
       "Framer Motion",
     ],
-    title: "Msn Production",
+    title: "PortFolio",
     description:
       "PT. MULIA SEJATI NUSANTARA Established on June 24, 2019, a limited liability company engaged in supplier & contractor services. Then on January 22 2022 PT. MULIA SEJATI NUSANTARA Opening a new business branch in the Technology Sector which includes Website Creation, Mobile Applications, Branding, Creative Content, Digital Marketing & Advertising. This branch is called Mulia Sejati Nusantara Production or in short MSN PRODUCTION.",
     category: "business",
     // liveLink: "https://msnproduction.com/",
-    // codeLink: "https://github.com/berthutapea/msnproduction.com",
+    codeLink: "https://github.com/Pinku-code/abinash-portfolio",
   },
   {
     id: 2,
@@ -85,7 +85,7 @@ const Items = [
       "Slugify",
       "Cors",
     ],
-    title: "Mern Blog",
+    title: "InkNova",
     description:
       "Fullstack open source blogging application made with MongoDB, Express, React & Nodejs (MERN)",
     category: "personal",
@@ -146,7 +146,7 @@ const Items = [
       "MongoDB",
       "TMDB API",
     ],
-    title: "BertFlix",
+    title: "ExpenseEase",
     description:
       "Fullstack open source movie application made with MongoDB, Express, React & Nodejs (MERN)",
     category: "personal",
@@ -218,7 +218,7 @@ const Items = [
       "Nodemon",
       "Sequelize",
     ],
-    title: "Employee Salary Management",
+    title: "NeoCart",
     description:
       "Warehouse website with employee/employee management, add employee and job title options. Employee attendance data setting salary deductions and salary data. Print salary reports, attendance and salary data and many other features.",
     category: "business",

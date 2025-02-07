@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { FaDownload } from "react-icons/fa";
+import { FaDownload, FaGithub } from "react-icons/fa";
 import { RiFolderInfoFill } from "react-icons/ri";
 import TypeAnimation from "react-type-animation";
 import { motion } from "framer-motion";
@@ -44,11 +44,7 @@ const Banner = () => {
           />
         </div>
         <p className="text-neutral max-w-xl mb-6 font-medium translate-y-[-20%] sm:translate-y-[-0%]">
-          As a MERN stack developer, I am committed to building high-quality web
-          applications that meet the needs of my clients. With years of
-          experience in full-stack web development, I specialize in using
-          React.js, Next js, Typescript, MongoDB, Express.js, and Node.js to
-          create scalable and robust web applications.
+        As a passionate MERN stack developer, I specialize in crafting high-quality, scalable web applications tailored to client needs. With extensive experience in full-stack development, I excel in building robust solutions using React.js, Next.js, TypeScript, MongoDB, Express.js, and Node.js. My focus is on delivering seamless, efficient, and future-ready applications.
           {/* I am a Front-end Developer. I am very passionate to my work and
           dedicated to explore New Tools And Technologies. */}
         </p>
@@ -65,14 +61,22 @@ const Banner = () => {
               </span>
             </button>
           </a>
-          <Link to="/about" className="ml-4">
+          {/* <Link to="/about" className="ml-4">
             <SecondaryBtn>
               <span>About Me</span>
               <span>
                 <RiFolderInfoFill />
               </span>
             </SecondaryBtn>
-          </Link>
+          </Link> */}
+          <a href="https://github.com/Pinku-code" className="ml-4">
+            <SecondaryBtn>
+              <span>Github</span>
+              <span>
+                <FaGithub />
+              </span>
+            </SecondaryBtn>
+          </a>
         </div>
       </motion.div>
       <motion.div
