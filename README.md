@@ -1,13 +1,12 @@
 <h1 align ="center" >Abinash | Portfolio</h1>
 
 <h5  align ="center"> 
-Dedicated Front-end developer. Capable to solve working problems. Passionate about learning & development to reach the target. Eager to tackle more complex problems and continue to find ways to maximize user efficiency. My next mission is how to become a Mern stack Developer. I would love to build some Giant Website which will shine myself. <br/> <a href="https://drive.google.com/file/d/16r18tc8RhGEiQoOGTTFvgZ0">Resume 💼</a> </h5>
+A Software Developer. Capable to solve working problems. Passionate about learning & development to reach the target. Eager to tackle more complex problems and continue to find ways to maximize user efficiency. My next mission is how to become a Mern stack Developer. I would love to build some Giant Website which will shine myself. <br/> <a href="https://drive.google.com/open?id=1mAiIQK5a8ZSWv6TX0rEpDShITcxzHFPd&usp=drive_fs">Resume 💼</a> </h5>
 <br/>
 
   * [Configuration and Setup](#configuration-and-setup)
   * [Key Features](#key-features)
   * [Technologies used](#technologies-used)
-  * [📸 Screenshots](#screenshots)
   * [Author](#author)
   * [License](#license)
 
@@ -54,32 +53,6 @@ This project was created using the following technologies.
 
 
 ## Author
-- Portfolio: [Abinash](https://)
-- Github: [Abinash](https://)
-- Sponsor: [Abinash](https://)
-- Linkedin: [Abinash](https://)
+- Portfolio: [Abinash](https://abinash-portfolio-dev.vercel.app/)
+- Github: [Pinku-code](https://github.com/Pinku-code)
 - Email: [ns4507262@gmail.com](mailto:ns4507262@gmail.com)
-
-## License
-
-MIT License
-
-Copyright (c) 2024 Abinash
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
