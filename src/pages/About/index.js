@@ -36,9 +36,9 @@ const About = () => {
             }}
           >
             <img
-              // src="https://res.cloudinary.com/du541igfh/image/upload/v1683035791/Blog%20Portfolio%20Gilbert/Project/berthutapea.com/GilbertHutapea_qjy2gq.png"
+              src="https://avatars.githubusercontent.com/u/91450121?v=4"
               alt="Abinash"
-              className="p-12 w-70 h-70 transform translate-y-[-12%]"
+              className="p-12 w-70 h-70 transform translate-y-[-12%] rounded-full"
               title="Abinash"
             />
 
