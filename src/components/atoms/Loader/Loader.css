@@ -1,5 +1,5 @@
 #loader-container {
-    background-color: #212121;
+    background-color: #000000;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -33,7 +33,7 @@
 
 .loading_blue {
     top: 0px;
-    border-top: 5px lightblue solid;
+    border-top: 5px #219ebc solid;
     animation-delay: 4s;
     animation: blue_animation 1.5s infinite;
 }
@@ -43,11 +43,11 @@
     content: "";
     width: 10px;
     height: 10px;
-    background: lightblue;
+    background: #219ebc;
     border-radius: 69%;
     right: 5px;
     top: 10px;
-    box-shadow: 0px 0px 20px lightblue;
+    box-shadow: 0px 0px 20px #219ebc;
 }
 
 .loading_blue:before {
@@ -55,7 +55,7 @@
     width: 5px;
     height: 5px;
     position: absolute;
-    background: lightblue;
+    background: #219ebc;
     top: 8.8px;
     left: 9px;
     border-radius: 69%;
@@ -64,7 +64,7 @@
 .loading_coral {
     left: 0px;
     bottom: 0px;
-    border-top: 5px #FD5857 solid;
+    border-top: 5px #FFFFFF solid;
     animation: coral_animation 1.5s infinite;
 }
 
@@ -73,11 +73,11 @@
     content: "";
     width: 10px;
     height: 10px;
-    background: #FD5857;
+    background: #FFFFFF;
     border-radius: 69%;
     right: 5px;
     top: 10px;
-    box-shadow: 0px 0px 20px #FD5857;
+    box-shadow: 0px 0px 20px #FFFFFF;
 }
 
 .loading_coral:before {
@@ -85,7 +85,7 @@
     width: 5px;
     height: 5px;
     position: absolute;
-    background: #FD5857;
+    background: #FFFFFF;
     top: 8.8px;
     left: 9px;
     border-radius: 69%;
@@ -94,7 +94,7 @@
 .loading_orange {
     right: 0px;
     bottom: 0px;
-    border-top: 5px #F79D41 solid;
+    border-top: 5px #FFFFFF solid;
     animation: orange_animation 1.5s infinite;
 }
 
@@ -103,11 +103,11 @@
     content: "";
     width: 10px;
     height: 10px;
-    background: #F79D41;
+    background: #FFFFFF;
     border-radius: 69%;
     right: 5px;
     top: 10px;
-    box-shadow: 0px 0px 20px #F79D41;
+    box-shadow: 0px 0px 20px #FFFFFF;
 }
 
 .loading_orange:before {
@@ -115,7 +115,7 @@
     width: 5px;
     height: 5px;
     position: absolute;
-    background: #F79D41;
+    background: #FFFFFF;
     top: 8.8px;
     left: 9px;
     border-radius: 69%;

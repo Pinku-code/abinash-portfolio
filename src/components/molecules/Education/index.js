@@ -32,7 +32,7 @@ const Education = () => {
           <div className="p-6 bg-[#313131] bg-opacity-90 backdrop-blur-lg rounded-lg shadow-lg inline-block w-[300px] hover:shadow-primary duration-300 cursor-pointer">
             <div className="text-right mb-4">
               <h3 className="text-2xl font-semibold text-primary">
-                Diploma in CSE
+                Computer Science
               </h3>
               <p className="text-sm text-neutral font-semibold">2021 - 2025</p>
             </div>
@@ -63,7 +63,7 @@ const Education = () => {
             </div>
             <p className="text-sm text-neutral text-justify">
               I have passed the Senior Secondary Certificate (SSC) with the
-              highest result <b>GPA - 88</b>
+              highest result <b>GPA - 89</b>
             </p>
           </div>
         </div>
